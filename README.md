@@ -83,3 +83,6 @@ Neo4j is a datbaase - Secret ingredient(s)
 
 **GQL != GraphQL**
 ![alt text](assets/gql-grapql.png)
+
+---
+[Acceso a la instancia de Neo4j Aura](https://console-preview.neo4j.io/tools/query)
