@@ -5,15 +5,15 @@ Curso impartido por [*Charlotte Skardon*](https://www.linkedin.com/in/cskardon/?
 ---
 
 
-![alt text](assets/graph-database-theory-1.png)
+![alt text](assets/imgs/graph-database-theory-1.png)
 
 ## Todo puede ser un grafo
-![alt text](assets/graph-database-theory-2.png)
+![alt text](assets/imgs/graph-database-theory-2.png)
 
 ---
 
 ## Conexiones
-![alt text](assets/relation-graph.png)
+![alt text](assets/imgs/relation-graph.png)
 
 ---
 
@@ -31,14 +31,14 @@ Neo4j is a database - ACID
 Neo4j is a datbaase - Secret ingredient(s)
 
 - Graph Native
-![alt text](assets/neo4j-native-vs-nonative.png)
+![alt text](assets/imgs/neo4j-native-vs-nonative.png)
 - Index Free Adjacency
-![alt text](assets/neo4j-index-free-adjacency.png)
+![alt text](assets/imgs/neo4j-index-free-adjacency.png)
 - Graph Locality
-![alt text](assets/neo4j-graph.ecosystem.png)
+![alt text](assets/imgs/neo4j-graph.ecosystem.png)
 
 ## Ecosistema
-![alt text](assets/ecosystem.png)
+![alt text](assets/imgs/ecosystem.png)
 
 ---
 
@@ -61,28 +61,28 @@ Neo4j is a datbaase - Secret ingredient(s)
     -   relationships
 -   No need for nulls
 
-![alt text](assets/graph-components.png)
+![alt text](assets/imgs/graph-components.png)
 
-![alt text](assets/node-properties.png)
+![alt text](assets/imgs/node-properties.png)
 
 ## What is Cypher?
 
 - A declarative query langauge for property graphs
 - Uses a (limited) form of ASCII Art to allow you to visually describe the patterns in the graph. 
 
-![alt text](assets/powerful-and-expressive-query-language.png)
-![alt text](assets/cypher-matching.png)
+![alt text](assets/imgs/powerful-and-expressive-query-language.png)
+![alt text](assets/imgs/cypher-matching.png)
 
 ## Where is Cypher going?
 
-![alt text](assets/where-cypher-going.png)
+![alt text](assets/imgs/where-cypher-going.png)
 
 ---
 
 ## What about GraphQL?
 
 **GQL != GraphQL**
-![alt text](assets/gql-grapql.png)
+![alt text](assets/imgs/gql-grapql.png)
 
 ---
 [Acceso a la instancia de Neo4j Aura](https://console-preview.neo4j.io/tools/query)
